@@ -30,7 +30,7 @@
 
 /* Begin PBXFileReference section */
 		365D665E242643B100A30E44 /* ImageFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		365D6661242643B100A30E44 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "../New Group/AppDelegate.swift"; sourceTree = "<group>"; };
+		365D6661242643B100A30E44 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		365D6663242643B100A30E44 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		365D666A242643B200A30E44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		365D666D242643B200A30E44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -97,9 +97,9 @@
 		365D66752426442B00A30E44 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				365D6661242643B100A30E44 /* AppDelegate.swift */,
 				365D666A242643B200A30E44 /* Assets.xcassets */,
 				365D6663242643B100A30E44 /* SceneDelegate.swift */,
-				365D6661242643B100A30E44 /* AppDelegate.swift */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
